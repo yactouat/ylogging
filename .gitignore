@@ -4,3 +4,4 @@ dist
 ypostgres_lib.egg-info
 yuseful_prompts.egg-info
 .pytest_cache
+ylogging.egg-info
